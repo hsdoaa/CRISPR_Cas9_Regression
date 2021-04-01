@@ -10,5 +10,5 @@ linear regression (LR)
 All the predictors are implemented in python using Scikit-learn library and Kers with tensorflow back end for implementing neural network regression model. Each model is trained
 with a set of features exracted from the crisper-cas9 dataset including:
 
-'Efficiency','Specificity','BS_Length', and 'Distance_exon_BS (D)'
+Efficiency, Specificity, BS_Length, and Distance_exon_BS (D)
 
