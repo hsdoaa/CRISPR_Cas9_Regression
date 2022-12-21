@@ -1,6 +1,6 @@
 # CRISPR_Cas9_Regression
 
-These are regression predictors that predict the average fold change of sgRNAs of in-house Crisper-cas9 dataset. Those models include:
+These are regression predictors that predict the average fold change of sgRNAs from Crisper-cas9 experiments. Those models include:
 
 Support vector regression (SVR)
 
